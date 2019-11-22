@@ -1,0 +1,10 @@
+id_master,PC LAPTOP,BRAND,MODEL,S/N,CURRENT USER PROFILE,HOSTNAME,EMAIL YES/NO,HANDOVER DATE,REQUEST DATE,REMARKS,STATUS/ALLOCATION,Location,Department Asset
+,PC,LENOVO ThinkCentre,10M740L1A,PCOGFW3C,ext.sumaryono.sumary ,JKTCL226-17,Yes,27-03-2019,14-02-2019,PHASE 2 - PC,handover completed,Empety,Empety
+,PC,LENOVO ThinkCentre,10M740L1A,PCOUCPM2,ext.edwin.dirhayanto,JKTCL226-18,Yes,27-03-2019,14-02-2019,PHASE 2 - PC,handover completed,Empety,Empety
+,PC,LENOVO ThinkCentre,10M740L1A,PCOQFW3L,ext.ribut.sukirmana,JKTCL226-19,No,27-03-2019,14-02-2019,PHASE 2 - PC,handover completed,Empety,Empety
+,PC,LENOVO ThinkCentre,10M740L1A,PCOQFW2W,ext.suheri.suheri,JKTCL226-20,Yes,27-03-2019,14-02-2019,PHASE 2 - PC,handover completed,Empety,Empety
+,PC,LENOVO ThinkCentre,10M740L1A,PCOUCPLS,ext.widodo.widodo / ext.arif.darmawan,JKTCL226-21,Yes,27-03-2019,14-02-2019,PHASE 2 - PC,handover completed,Empety,Empety
+,PC,LENOVO ThinkCentre,10M740L1A,PCOSKGUY,ext.sutarno.sutarno / ext.supriyanto.junaedi,JKTCL226-22,Yes,27-03-2019,14-02-2019,PHASE 2 - PC,handover completed,Empety,Empety
+,PC,LENOVO ThinkCentre,10M740L1A,PCOSKGUW,ext.hadi.siswanto,JKTCL226-23,Yes,27-03-2019,14-02-2019,PHASE 2 - PC,handover completed,Empety,Empety
+,PC,LENOVO ThinkCentre,10M740L1A,PCOUCPMC,ext.heri.susanto,JKTCL226-24,Yes,27-03-2019,14-02-2019,PHASE 2 - PC,handover completed,Empety,Empety
+,PC,LENOVO ThinkCentre,10M740L1A,PCOSKGTU,ext.madi.madi / ext.suherman.suherman,JKTCL226-25,Yes,27-03-2019,14-02-2019,PHASE 2 - PC,handover completed,Empety,Empety
