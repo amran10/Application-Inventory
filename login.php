@@ -1,11 +1,16 @@
 <?php 
 include "include/connection.php";
+
+mysql_connect($host, $user, $password);
+mysql_select_db($dbname);
 if (isset($_POST['submit_login'])) {
 
   $user =$_POST['username'];
   $pass =$_POST['password'];
   $log_type = "login";
   $date_log = date('Y-m-d H:i:m');
+
+  // var_dump($user,$pass,$log_type,$date_log);exit;
 
   $q = mysql_query("SELECT * FROM tb_user WHERE user_name='$user' AND user_password='$pass'");
 
@@ -44,7 +49,7 @@ if (isset($_POST['submit_login'])) {
 		                    <a data-toggle="modal" href="login.html#myModal"> Forgot Password?</a>
 		                </span>
                   </label> --><br>
-                  <button class="btn btn-theme btn-block" type="submit" name="submit_login" value="submit_login"><i class="fa fa-lock"></i> SIGN IN</button>
+                  <button class="btn btn-theme btn-block" type="submit" name="submit_login"><i class="fa fa-lock"></i> SIGN IN</button>
                   <hr>
 		            <!-- <div class="login-social-link centered">
 		            <p>or you can sign in via your social network</p>

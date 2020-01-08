@@ -1,7 +1,7 @@
-<!-- <?php
-// include 'include/restrict.php';
-?> -->
-
+ <?php
+include 'include/restrict.php';
+include 'include/connection.php';
+?> 
 <!-- Role -->
 <!-- Role 0 = admin
 Role 1 = HRD
